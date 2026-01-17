@@ -11,8 +11,8 @@ Repository này lưu trữ toàn bộ source code, bài tập thực hành và g
 ## 📚 Lộ trình học tập & Tiến độ (Course Progress)
 
 ### Part 1: Java Basics & OOP
-- [ ] **Section 1:** Introduction to Java SE 21 Developer Certification Course
-- [ ] **Section 2:** Introduction to Java and Environment Setup
+- [X] **Section 1:** Introduction to Java SE 21 Developer Certification Course
+- [X] **Section 2:** Introduction to Java and Environment Setup
 - [ ] **Section 3:** Basics of Java
 - [ ] **Section 4:** Operators
 - [ ] **Section 5:** Array
@@ -61,5 +61,4 @@ Code được tổ chức theo từng section tương ứng để dễ dàng tra
   ├── /section-16-streams
   ├── /section-21-concurrency
   ...
-/docs
-  └── cheatsheet-java21.md
+Documents: https://docs.google.com/document/d/108gStTYzg6rXPNr9yljmAQQ-xhbHiUlX7YG89O2pZzY/edit?usp=sharing
