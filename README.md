@@ -13,7 +13,7 @@ Repository này lưu trữ toàn bộ source code, bài tập thực hành và g
 ### Part 1: Java Basics & OOP
 - [X] **Section 1:** Introduction to Java SE 21 Developer Certification Course
 - [X] **Section 2:** Introduction to Java and Environment Setup
-- [ ] **Section 3:** Basics of Java
+- [X] **Section 3:** Basics of Java
 - [ ] **Section 4:** Operators
 - [ ] **Section 5:** Array
 - [ ] **Section 6:** Control Flow Statements
