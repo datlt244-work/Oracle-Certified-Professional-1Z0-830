@@ -1,5 +1,3 @@
-# Oracle-Certified-Professional-1Z0-830
-Tài liệu ôn tập, ghi chú và code mẫu để chuẩn bị cho kỳ thi Oracle Certified Professional: Java SE 21 Developer (1Z0-830).
 # ☕ Oracle Certified Professional: Java SE 21 Developer (1Z0-830)
 
 Repository này lưu trữ toàn bộ source code, bài tập thực hành và ghi chú cá nhân trong quá trình tôi hoàn thành khóa học luyện thi chứng chỉ Java SE 21 Developer.
