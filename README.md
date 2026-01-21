@@ -13,7 +13,7 @@ Repository này lưu trữ toàn bộ source code, bài tập thực hành và g
 - [X] **Section 2:** Introduction to Java and Environment Setup
 - [X] **Section 3:** Basics of Java
 - [X] **Section 4:** Operators
-- [ ] **Section 5:** Array
+- [X] **Section 5:** Array
 - [ ] **Section 6:** Control Flow Statements
 - [ ] **Section 7:** Methods
 - [ ] **Section 8:** Java Object-Oriented Concept
